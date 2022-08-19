@@ -1,0 +1,10 @@
+
+Exception word: cabbage
+Result words:
+	a  4 / 125
+	b  3 / 125
+	c  2 / 125
+	d  1 / 125
+	e  4 / 125
+	f  3 / 125
+	g 2 / 125
